@@ -6,6 +6,12 @@ import java.util.Set;
 
 public class Abecedario {
 
+    
+    /**
+     * este programa sirve para saber si lo que pones por teclado está escrito alfabeticamente
+     * @param args 
+     */
+    
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
